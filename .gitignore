@@ -21,8 +21,5 @@ Thumbs.db
 *.tsbuildinfo
 node_modules/.tmp/
 
-# yarn / npm / pnpm
-package-lock.json
-
 # VSCode extensions
 .history/
