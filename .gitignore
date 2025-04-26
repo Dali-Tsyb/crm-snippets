@@ -1,0 +1,31 @@
+# node_modules
+node_modules/
+
+# vite
+dist/
+
+# temp
+*.local
+*.log
+*.tmp
+*.temp
+
+# system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# env
+.env
+.env.* 
+*.tsbuildinfo
+node_modules/.tmp/
+
+# yarn / npm / pnpm
+package-lock.json
+
+# VSCode extensions
+.history/
