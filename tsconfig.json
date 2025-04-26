@@ -4,6 +4,8 @@
       "useDefineForClassFields": true,
       "module": "ESNext",
       "moduleResolution": "Node",
+      "outDir": "./dist",
+      "rootDir": "./src",
       "strict": true,
       "esModuleInterop": true,
       "skipLibCheck": true,
