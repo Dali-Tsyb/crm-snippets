@@ -63,7 +63,7 @@ Users can create fields of different types (text, date, number, link, file etc.)
 
 Interactive demo is available on GitHub Pages.
 
-[Перейти к демо](https://ваша-ссылка)
+[Перейти к демо](https://dali-tsyb.github.io/crm-snippets/)
 
 ---
 
