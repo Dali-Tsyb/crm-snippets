@@ -91,7 +91,8 @@
       ref="departmentTab"
     >
       <table class="w-100 table mb-0">
-        <tr class="d-flex">
+         <tbody>
+            <tr class="d-flex">
           <td class="fw-semibold text-secondary card-title max-width tab-name text-start">
             {{ department.name }}
           </td>
@@ -178,7 +179,8 @@
               </button>
             </div>
           </td>
-        </tr>
+            </tr>
+         </tbody>
       </table>
     </div>
   </div>
