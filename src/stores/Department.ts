@@ -51,7 +51,7 @@ export const useDepartmentStore = defineStore("department", () => {
          supervisor: {
             id: 3,
             name: "Eminem",
-            avatar: "/avatars/Eminem.png",
+            avatar: "./avatars/Eminem.png",
             created_at: "2023-01-01 00:00:00",
          },
          order: 0,
@@ -122,7 +122,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 1,
             name: "Kendrick Lamar",
-            avatar: "/avatars/Kendrick.png",
+            avatar: "./avatars/Kendrick.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
@@ -133,7 +133,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 2,
             name: "Frank Ocean",
-            avatar: "/avatars/Frank.png",
+            avatar: "./avatars/Frank.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
@@ -144,7 +144,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 3,
             name: "Eminem",
-            avatar: "/avatars/Eminem.png",
+            avatar: "./avatars/Eminem.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
@@ -155,7 +155,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 4,
             name: "Sabrina Carpenter",
-            avatar: "/avatars/Sabrina.png",
+            avatar: "./avatars/Sabrina.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
@@ -166,7 +166,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 5,
             name: "Ariana Grande",
-            avatar: "/avatars/Ariana.png",
+            avatar: "./avatars/Ariana.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
@@ -177,7 +177,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 6,
             name: "Slipknot",
-            avatar: "/avatars/Slipknot.png",
+            avatar: "./avatars/Slipknot.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
@@ -188,7 +188,7 @@ export const useDepartmentStore = defineStore("department", () => {
          user: {
             id: 7,
             name: "System of a Down",
-            avatar: "/avatars/System.png",
+            avatar: "./avatars/System.png",
             created_at: "2023-01-01 00:00:00",
          },
       },
