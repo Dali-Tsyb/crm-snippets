@@ -39,20 +39,35 @@ Interface for displaying all organizational departments and managing their infor
 
 ## 🖼 Скриншоты интерфейса, созданного мной / Screenshots of app interfaces developed by me
 
+### Функциональный Дашборд / Functional Dashboard
+
+Отображает аналитику по всей организации в соответствие с выбранной датой календаря. Пользователь может сразу увидеть актуальные задачи, недавние изменения в организации и текующие рабочие процессы.
+
+Covers analytics across all organization according to selected date. User can see relevant tasks, recent changes inside organization and current work processes.
+
 ![Dashboard Screenshot](public/screenshots/dashboard.png)
-![Custom Fields Screenshot](./screenshots/fields.png)
+
+### Компонент Кастомных Полей Ввода / Custom Input Fields Component
+
+Пользователи могут создавать поля разных типов (текст, дата, число, ссылка, файл и т.д.) внутри отдельных разделов, чтобы хранить информацию, которая выходит за рамки стандартного функционала приложения.
+
+Users can create fields of different types (text, date, number, link, file etc.) inside separate sections to store data that goes beyond default app features.
+
+![Custom Fields Screenshot](public/screenshots/fields.png)
 
 ---
 
 ## 🚀 Demo
 
-Интерактивную демо-версию можно посмотреть на GitHub Pages
-Interactive demo is available on GitHub Pages
+Интерактивную демо-версию можно посмотреть на GitHub Pages.
+
+Interactive demo is available on GitHub Pages.
+
 [Перейти к демо](https://ваша-ссылка)
 
 ---
 
-## 📫 Контакты
+## 📫 Feel free to contact me!
 
 > Author: [Албогачиева Дали](https://www.linkedin.com/in/dali-albogachieva)  
 > GitHub: [github.com/Dali-Tsyb](https://github.com/Dali-Tsyb)  
