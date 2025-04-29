@@ -29,8 +29,8 @@ The functionality has been trimmed and adapted to showcase modules without serve
 
 ### 🏢 Подразделения организации / Organization Departments
 
-Интерфейс, отображающий все подразделения организации и редактируемую информацию о них (редактирование и создание подразделений вырезано для демо-версии)
-Interface for displaying all organizational departments and managing their information (The editing/creation functionality was removed for demo purposes)
+Интерфейс, отображающий все подразделения организации и редактируемую информацию о них (редактирование и создание подразделений вырезано для демо-версии). Для реализации неограниченной вложенности использовались рекурсивные компоненты.
+Interface for displaying all organizational departments and managing their information (The editing/creation functionality was removed for demo purposes) Recursive components were used to create unlimited nesting.
 
 - `DepartmentTreeLayout.vue` — древовидное представление / tree layout
 - `DepartmentTabsLayout.vue` — представление вкладками / tabs layout
